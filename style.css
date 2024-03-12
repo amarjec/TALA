@@ -262,7 +262,7 @@ body {
 }
 #txt2 h1 {
     color: transparent;
-    -webkit-text-stroke: 1px  red ;
+    -webkit-text-stroke: 1px  white;
 }
 #ltxt2 {
     padding: 1.5vw 2vw;
